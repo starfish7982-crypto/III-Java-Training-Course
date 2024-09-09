@@ -1,4 +1,4 @@
-# III-Java-Training-Course
+# III-Java-Training-Course (Institute for Information Industry)
 ● Completed a 6-month Java training course, covering both front-end and back-end development.</br>
 ● Collaborated with a 6-person team to develop a restaurant management system as part of our graduation project, in partnership with Hung Yang Soft. Tech. Co. Ltd.
 
