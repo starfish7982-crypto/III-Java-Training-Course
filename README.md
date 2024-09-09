@@ -1,6 +1,14 @@
 # III-Java-Training-Course (Institute for Information Industry)
-● Completed a 6-month Java training course, covering both front-end and back-end development.</br>
-● Collaborated with a 6-person team to develop a restaurant management system as part of our graduation project, in partnership with Hung Yang Soft. Tech. Co. Ltd.
+
+<b>Organization Profile:</b><br>
+The Institute for Information Industry (III) is a leading non-profit organization in Taiwan, dedicated to driving the development of information and communication technology (ICT). III provides advanced training programs, industry certifications, and research opportunities to cultivate IT professionals.
+<br>
+<br>
+Jan 2016 - Jun 2016 | Taipei City, Taiwan
+<ul>
+<li>Completed a 6-month Java training course, covering both front-end and back-end development.</li>
+<li>Collaborated with a 6-person team to develop a restaurant management system as part of our graduation project, in partnership with Hung Yang Soft. Tech. Co. Ltd.</li>
+</ul>
 
 <b>Programming Languages:</b> Java, Javascript, jQuery, HTML5, CSS</br>
 <b>Web Technologies:</b> Servlet, JSP, AJAX, RESTful API</br>
