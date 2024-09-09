@@ -4,6 +4,7 @@
 The Institute for Information Industry (III) is a leading non-profit organization in Taiwan, dedicated to driving the development of information and communication technology (ICT). III provides advanced training programs, industry certifications, and research opportunities to cultivate IT professionals.
 <br>
 <br>
+<b>Java Training Course</b><br>
 Jan 2016 - Jun 2016 | Taipei City, Taiwan
 <ul>
 <li>Completed a 6-month Java training course, covering both front-end and back-end development.</li>
